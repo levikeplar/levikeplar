@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @levikeplar
-- 👀 I’m trying to learn everything I can about software development. 
-- 🌱 I’m currently learning Python. I have finished a few projects and have also created my first Chrome Extension. All of my projects were created to fill holes in my current business.
-- 💞️ I’m looking to collaborate on anything that would be helpful to learn. I have lots of ideas, but still a long way to go with coding experience.
+🚀 Learning and Building
+Aspiring developer dedicated to learning as much as possible. So far, I've completed 10+ projects involving API calls, Python, Flask, and creating Chrome extensions.
 
-<!---
-wintersoldier32/wintersoldier32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Notable Project:
+Built a barcode and OCR scanner for online sellers, matching skus on ecommerce platforms and finding profitable items based on algorithms. 
+
+💡 Driven by Problem-Solving
+I’m here for the love of tech, creativity, and the thrill of solving problems through code.
+
+🎯 Goals
+Focused on building a strong portfolio and growing my skill set with each project.
